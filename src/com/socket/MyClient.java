@@ -38,6 +38,12 @@ public class MyClient {
         outputStream.close();
         socket.close();
 
+        System.out.println("AAAAAAAAAAAAAAA");
+        System.out.println("SSSSSSSSSSSSSSS");
+        System.out.println("DDDDDDDDDDDDDDD");
+        System.out.println("FFFFFFFFFFFFFFF");
+        System.out.println("GGGGGGGGGGGGGGG");
+        System.out.println("WWWWWWWWWWWWWWW");
 
     }
 }
